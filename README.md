@@ -1,5 +1,5 @@
 # go-fyneWidgets
-exercise on GoLang with Fyne GUI and SGV libraries to create a compass, a speedometer and seven a segment display widgets.
+An exercise with the GoLang together with Fyne GUI and SGV libraries to create a compass, a speedometer and seven a segment display widgets.
 
 - Pressing the space bar will finish the app.
 
