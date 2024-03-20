@@ -3,4 +3,4 @@ exercise on GoLang with Fyne GUI and SGV libraries to create a compass, a speedo
 
 - Pressing the space bar will finish the app.
 
-![Alt text](resources/drawnwidgets?raw=true "The app window")
+![Alt text](resources/drawnwidgets.png?raw=true "The app window")
